@@ -1,0 +1,52 @@
+CREATE TABLE applications (
+    id SERIAL PRIMARY KEY,
+    oc_id SERIAL,
+    status VARCHAR(255),
+    job_title VARCHAR(255),
+    company_name VARCHAR(255),
+    company_website_link VARCHAR(255),
+    link_offer VARCHAR(255),
+    job_source VARCHAR(255),
+    town_name VARCHAR(255),
+    remote_preference VARCHAR(255),
+    contract_type VARCHAR(255),
+    motivation_letter TEXT,
+    content TEXT,
+    contact_name VARCHAR(255),
+    contact_position VARCHAR(255),
+    contact_email VARCHAR(255),
+    contact_telephone VARCHAR(255),
+    contact_linkedin_url VARCHAR(255),
+    action_write_letter BOOLEAN DEFAULT FALSE,
+    action_fill_application BOOLEAN DEFAULT FALSE,
+    action_remind_contact BOOLEAN DEFAULT FALSE,
+    action_gather_company_info BOOLEAN DEFAULT FALSE,
+    action_stalk_contact BOOLEAN DEFAULT FALSE,
+    action_send_thanks_mail BOOLEAN DEFAULT FALSE,
+    action_fill_employer_dashboard BOOLEAN DEFAULT FALSE,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
+
+
+ALTER TABLE applications ADD COLUMN action_find_good_contact BOOLEAN DEFAULT FALSE;
+ALTER TABLE applications ADD COLUMN action_next_interview_date BOOLEAN DEFAULT FALSE;
+ALTER TABLE applications ADD COLUMN action_remind_interview BOOLEAN DEFAULT FALSE;
+
+INSERT INTO applications (oc_id, status, job_title, company_name, company_website_link, link_offer, job_source, town_name, remote_preference, contract_type, motivation_letter, content, contact_name, contact_position, contact_email, contact_telephone, contact_linkedin_url, created_at)
+VALUES
+(101, 'to_do', 'Frontend React / Typescript', 'Google', 'https://www.google.com', 'https://careers.google.com', 'LinkedIn', 'Mountain View', 'No', 'Full-time', '...', '...', 'John Doe', 'HR Manager', 'johndoe@google.com', '123-456-7890', 'https://www.linkedin.com/in/johndoe', CURRENT_TIMESTAMP),
+(101, 'application_in_progress', 'Frontend React', 'Facebook', 'https://www.facebook.com', 'https://www.facebook.com/careers', 'Indeed', 'Menlo Park', 'Yes', 'Part-time', '...', '...', 'Jane Smith', 'Recruiter', 'janesmith@fb.com', '234-567-8901', 'https://www.linkedin.com/in/janesmith', CURRENT_TIMESTAMP),
+(101, 'interview_in_progress', 'Fullstack', 'Apple', 'https://www.apple.com', 'https://jobs.apple.com', 'Glassdoor', 'Cupertino', 'Remote', 'Contract', '...', '...', 'Alex Johnson', 'Senior Manager', 'alexjohnson@apple.com', '345-678-9012', 'https://www.linkedin.com/in/alexjohnson', CURRENT_TIMESTAMP),
+(101, 'contract_finalization', 'Frontend VueJS', 'Microsoft', 'https://www.microsoft.com', 'https://careers.microsoft.com', 'Company Website', 'Redmond', 'Hybrid', 'Temporary', '...', '...', 'Emily White', 'Team Lead', 'emilywhite@microsoft.com', '456-789-0123', 'https://www.linkedin.com/in/emilywhite', CURRENT_TIMESTAMP),
+(101, 'refusal', 'Frontend React / Typescript', 'Amazon', 'https://www.amazon.com', 'https://www.amazon.jobs', 'Referral', 'Seattle', 'No Preference', 'Internship', '...', '...', 'Mike Brown', 'Department Head', 'mikebrown@amazon.com', '567-890-1234', 'https://www.linkedin.com/in/mikebrown', CURRENT_TIMESTAMP),
+(101, 'refusal', 'Frontend React / Typescript', 'Tesla', 'https://www.tesla.com', 'https://www.tesla.com/careers', 'Job Fair', 'Palo Alto', 'No', 'Freelance', '...', '...', 'Sara Green', 'HR Specialist', 'saragreen@tesla.com', '678-901-2345', 'https://www.linkedin.com/in/saragreen', CURRENT_TIMESTAMP);
+
+INSERT INTO applications (oc_id, status, job_title, company_name, company_website_link, link_offer, job_source, town_name, remote_preference, contract_type, motivation_letter, content, contact_name, contact_position, contact_email, contact_telephone, contact_linkedin_url, created_at)
+VALUES
+(101, 'to_do', 'Frontend React', 'IBM', 'https://www.ibm.com', 'https://www.ibm.com/employment', 'LinkedIn', 'New York', 'Yes', 'Full-time', '...', '...', 'Robert Lee', 'HR Manager', 'robertlee@ibm.com', '789-012-3456', 'https://www.linkedin.com/in/robertlee', CURRENT_TIMESTAMP),
+(101, 'application_in_progress', 'Frontend React / Typescript', 'Oracle', 'https://www.oracle.com', 'https://oracle.com/careers', 'Indeed', 'Austin', 'Remote', 'Contract', '...', '...', 'Lisa Marie', 'Recruiter', 'lisamarie@oracle.com', '890-123-4567', 'https://www.linkedin.com/in/lisamarie', CURRENT_TIMESTAMP),
+(101, 'interview_in_progress', 'Frontend jQuery', 'NVIDIA', 'https://www.nvidia.com', 'https://nvidia.com/careers', 'Glassdoor', 'Santa Clara', 'No', 'Full-time', '...', '...', 'David Wong', 'Senior Manager', 'davidwong@nvidia.com', '901-234-5678', 'https://www.linkedin.com/in/davidwong', CURRENT_TIMESTAMP),
+(101, 'refusal', 'Frontend Typescript', 'Intel', 'https://www.intel.com', 'https://jobs.intel.com', 'Company Website', 'Santa Clara', 'Hybrid', 'Temporary', '...', '...', 'Emily Chen', 'Team Lead', 'emilychen@intel.com', '012-345-6789', 'https://www.linkedin.com/in/emilychen', CURRENT_TIMESTAMP),
+(101, 'refusal', 'Frontend React / Typescript', 'Salesforce', 'https://www.salesforce.com', 'https://salesforce.com/careers', 'Referral', 'San Francisco', 'No Preference', 'Internship', '...', '...', 'John Adams', 'Department Head', 'johnadams@salesforce.com', '234-567-8901', 'https://www.linkedin.com/in/johnadams', CURRENT_TIMESTAMP),
+(101, 'refusal', 'Frontend React / Typescript', 'Spotify', 'https://www.spotify.com', 'https://www.spotifyjobs.com', 'Job Fair', 'New York', 'No', 'Freelance', '...', '...', 'Alice Johnson', 'HR Specialist', 'alicejohnson@spotify.com', '345-678-9012', 'https://www.linkedin.com/in/alicejohnson', CURRENT_TIMESTAMP);
+

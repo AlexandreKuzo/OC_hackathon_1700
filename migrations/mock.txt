@@ -1,0 +1,35 @@
+INSERT INTO users (id_oc, firstname, lastname, email) VALUES 
+(101, 'Alice', 'Brown', 'alice.brown@example.com'),
+(102, 'Bob', 'Smith', 'bob.smith@example.com'),
+(103, 'Clara', 'Johnson', 'clara.johnson@example.com'),
+(104, 'David', 'Lee', 'david.lee@example.com'),
+(105, 'Emma', 'Martinez', 'emma.martinez@example.com'),
+(106, 'Frank', 'Garcia', 'frank.garcia@example.com'),
+(107, 'Grace', 'Miller', 'grace.miller@example.com'),
+(108, 'Henry', 'Davis', 'henry.davis@example.com'),
+(109, 'Isabel', 'Rodriguez', 'isabel.rodriguez@example.com'),
+(110, 'Jack', 'Wilson', 'jack.wilson@example.com');
+
+INSERT INTO users (id_oc, firstname, lastname, email) VALUES 
+(111, 'Kathy', 'Anderson', 'kathy.anderson@example.com'),
+(112, 'Leo', 'Thomas', 'leo.thomas@example.com'),
+(113, 'Mia', 'Hernandez', 'mia.hernandez@example.com'),
+(114, 'Nathan', 'Moore', 'nathan.moore@example.com'),
+(115, 'Olivia', 'Martin', 'olivia.martin@example.com'),
+(116, 'Patrick', 'Jackson', 'patrick.jackson@example.com'),
+(117, 'Quinn', 'Thompson', 'quinn.thompson@example.com'),
+(118, 'Rachel', 'White', 'rachel.white@example.com'),
+(119, 'Samuel', 'Lopez', 'samuel.lopez@example.com'),
+(120, 'Tina', 'Lee', 'tina.lee@example.com');
+
+INSERT INTO users (id_oc, firstname, lastname, email) VALUES 
+(121, 'Uma', 'Harris', 'uma.harris@example.com'),
+(122, 'Victor', 'Clark', 'victor.clark@example.com'),
+(123, 'Wendy', 'Lewis', 'wendy.lewis@example.com'),
+(124, 'Xavier', 'Robinson', 'xavier.robinson@example.com'),
+(125, 'Yasmin', 'Walker', 'yasmin.walker@example.com'),
+(126, 'Zachary', 'Perez', 'zachary.perez@example.com'),
+(127, 'Amanda', 'Hall', 'amanda.hall@example.com'),
+(128, 'Brian', 'Young', 'brian.young@example.com'),
+(129, 'Carmen', 'Hernandez', 'carmen.hernandez@example.com'),
+(130, 'Derek', 'King', 'derek.king@example.com');

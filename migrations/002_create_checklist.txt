@@ -1,0 +1,7 @@
+CREATE TABLE checklist (
+    id SERIAL PRIMARY KEY,
+    id_oc INTEGER,
+    question_1 BOOLEAN DEFAULT FALSE,
+    question_2 BOOLEAN DEFAULT FALSE,
+    question_3 BOOLEAN DEFAULT FALSE
+);

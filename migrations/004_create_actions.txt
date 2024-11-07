@@ -1,0 +1,10 @@
+CREATE TABLE actions (
+    id SERIAL PRIMARY KEY,
+    oc_id INTEGER,
+    action_type VARCHAR(255),
+    application_id VARCHAR(255),
+    var1 VARCHAR(255),
+    var2 VARCHAR(255),
+    var3 VARCHAR(255),
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
