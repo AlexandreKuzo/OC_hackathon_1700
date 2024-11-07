@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OC_hackathon_2024/static/css/main.946224cd.css",
+    "main.js": "/OC_hackathon_2024/static/js/main.0e10721d.js",
+    "static/js/787.9d3e16f0.chunk.js": "/OC_hackathon_2024/static/js/787.9d3e16f0.chunk.js",
+    "index.html": "/OC_hackathon_2024/index.html",
+    "main.946224cd.css.map": "/OC_hackathon_2024/static/css/main.946224cd.css.map",
+    "main.0e10721d.js.map": "/OC_hackathon_2024/static/js/main.0e10721d.js.map",
+    "787.9d3e16f0.chunk.js.map": "/OC_hackathon_2024/static/js/787.9d3e16f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.946224cd.css",
+    "static/js/main.0e10721d.js"
+  ]
+}
