@@ -6,18 +6,26 @@ import {
 import { Card, CardContent, Typography, Accordion, AccordionSummary, AccordionDetails, Chip } from '@mui/material';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import Button from "@mui/material/Button";
+import { useNavigate } from 'react-router-dom';
+import { Link } from 'react-admin';
 
 const StudentPanel = () => {
     const record = useRecordContext();
+    const navigate = useNavigate();
+    console.log("ID de l'étudiant:", record?.id); // Pour déboguer
+
     if (!record) return null;
 
     return (
         <AccordionDetails>
             
-            <Button href={`https://openclassrooms.com/fr/spaces/admin/students/${record.id}`} variant="contained" color="primary">
-                Voir le tableau de bord
-            </Button><hr />
-            <Button href="#" variant="contained" color="secondary">
+            
+            <Button
+                component={Link}
+                to={`/student/${record.id}/project`}
+                variant="contained" 
+                color="secondary"
+            >
                 Voir le tableau de bord Tuteur
             </Button>
         </AccordionDetails>

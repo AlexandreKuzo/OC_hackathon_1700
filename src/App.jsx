@@ -12,7 +12,7 @@ import Layout from './Layout';
 import ItemCreate from './ItemCreate';
 import { ItemShow } from './ItemShow';
 import StudentList from './StudentList';
-
+import StudentProject from './StudentProject';
 const App = () => (
   <ThemeProvider theme={classifyTheme}>
     <BrowserRouter>
@@ -29,6 +29,7 @@ const App = () => (
               <Resource
               name="students"
               list={StudentList}
+              show={StudentProject}
               options={{ label: 'Alternants' }}
             />
               <Resource
@@ -47,7 +48,7 @@ const App = () => (
                 <Route path="/" element={<Home />} />
                 <Route path="/checklist" element={<ChecklistView />} />
                 <Route path="/board" element={<BoardView />} />
-                
+                <Route path="/student/:id/project" element={<StudentProject />} />
               </CustomRoutes>
             </Admin>
           }

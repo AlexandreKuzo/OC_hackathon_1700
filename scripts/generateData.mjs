@@ -9,6 +9,36 @@ const __dirname = dirname(__filename);
 const token = '';
 const delay = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
+// Nouvelle fonction pour récupérer les compétences
+async function fetchProjectCompetencies(projectId, token) {
+    try {
+        const response = await fetch(
+            `https://api.openclassrooms.com/projects/${projectId}/learning-outcomes`,
+            {
+                headers: {
+                    'Authorization': `Bearer ${token}`
+                }
+            }
+        );
+        
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        
+        const competencies = await response.json();
+        console.log(`Compétences récupérées pour le projet ${projectId}:`, competencies);
+        return competencies.map(comp => ({
+            id: comp.id,
+            title: comp.name,
+            description: comp.description,
+            language: comp.language
+        }));
+    } catch (error) {
+        console.error(`Erreur lors de la récupération des compétences pour le projet ${projectId}:`, error);
+        return [];
+    }
+}
+
 async function generateData() {
     console.log('Début de la génération des données...');
     
@@ -48,6 +78,13 @@ async function generateData() {
                 
                 const path = await pathResponse.json();
 
+                // Récupération des compétences du projet en cours
+                let currentProjectCompetencies = [];
+                if (student.followedProject?.id) {
+                    console.log(`Récupération des compétences pour le projet ${student.followedProject.id}...`);
+                    currentProjectCompetencies = await fetchProjectCompetencies(student.followedProject.id, token);
+                }
+
                 studentsWithPaths.push({
                     ...student,
                     path: {
@@ -55,7 +92,10 @@ async function generateData() {
                         completion: path.completion.actual,
                         status: path.completion.status,
                         expectedCompletion: path.completion.expected,
-                        currentProject: student.followedProject,
+                        currentProject: {
+                            ...student.followedProject,
+                            competencies: currentProjectCompetencies  // Ajout des compétences ici
+                        },
                         projects: path.projects
                     }
                 });
@@ -85,4 +125,4 @@ async function generateData() {
     }
 }
 
-generateData(); 
+generateData();

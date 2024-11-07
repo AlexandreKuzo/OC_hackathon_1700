@@ -24,7 +24,27 @@
         "projectTitle": "Créez une page web dynamique avec JavaScript",
         "projectLevel": "3",
         "projectMentoringLevel": "3",
-        "projectPresentationLevel": "3"
+        "projectPresentationLevel": "3",
+        "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ]
       },
       "projects": [
         {
@@ -37,6 +57,26 @@
           "evaluatorType": "mentor",
           "id": 1690,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -63,6 +103,26 @@
           "evaluatorType": "validator",
           "id": 1332,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -89,6 +149,26 @@
           "evaluatorType": "validator",
           "id": 1157,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -115,6 +195,26 @@
           "evaluatorType": "validator",
           "id": 1334,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -141,6 +241,26 @@
           "evaluatorType": "validator",
           "id": 1247,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -167,6 +287,26 @@
           "evaluatorType": "validator",
           "id": 1335,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -193,6 +333,26 @@
           "evaluatorType": "validator",
           "id": 1333,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -219,6 +379,26 @@
           "evaluatorType": "validator",
           "id": 1336,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -263,7 +443,27 @@
         "projectTitle": "Créez la page d'accueil d'une agence de voyage avec HTML & CSS",
         "projectLevel": "3",
         "projectMentoringLevel": "3",
-        "projectPresentationLevel": "3"
+        "projectPresentationLevel": "3",
+        "competencies": [
+          {
+            "id": 8314,
+            "language": "fr",
+            "name": "Implémenter une interface responsive avec HTML et CSS",
+            "description": null
+        },
+        {
+            "id": 8313,
+            "language": "fr",
+            "name": "Installer un environnement de développement front-end",
+            "description": null
+        },
+        {
+            "id": 8307,
+            "language": "fr",
+            "name": "Intégrer du contenu conformément à une maquette avec HTML et CSS",
+            "description": null
+        }
+        ]
       },
       "projects": [
         {
@@ -276,6 +476,26 @@
           "evaluatorType": "mentor",
           "id": 1691,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -302,6 +522,26 @@
           "evaluatorType": "mentor",
           "id": 1115,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -328,6 +568,26 @@
           "evaluatorType": "validator",
           "id": 1155,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -354,6 +614,26 @@
           "evaluatorType": "validator",
           "id": 1117,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -380,6 +660,26 @@
           "evaluatorType": "mentor",
           "id": 1147,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -406,6 +706,26 @@
           "evaluatorType": "validator",
           "id": 1157,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -432,6 +752,26 @@
           "evaluatorType": "validator",
           "id": 1247,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -458,6 +798,26 @@
           "evaluatorType": "validator",
           "id": 1164,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -484,6 +844,26 @@
           "evaluatorType": "validator",
           "id": 1153,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -510,6 +890,26 @@
           "evaluatorType": "validator",
           "id": 1248,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -536,6 +936,26 @@
           "evaluatorType": "validator",
           "id": 1156,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -562,6 +982,26 @@
           "evaluatorType": "validator",
           "id": 1154,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -606,7 +1046,27 @@
         "projectTitle": "Améliorez l'interface d'un site mobile avec des animations CSS",
         "projectLevel": "3",
         "projectMentoringLevel": "3",
-        "projectPresentationLevel": "3"
+        "projectPresentationLevel": "3",
+        "competencies": [
+          {
+            "id": 8330,
+            "language": "fr",
+            "name": "Intégrer une maquette en mobile-first",
+            "description": null
+        },
+        {
+            "id": 8329,
+            "language": "fr",
+            "name": "Mettre en œuvre des animations CSS",
+            "description": null
+        },
+        {
+            "id": 8328,
+            "language": "fr",
+            "name": "Versionner son projet avec Git et Github",
+            "description": null
+        }
+        ]
       },
       "projects": [
         {
@@ -619,6 +1079,26 @@
           "evaluatorType": "mentor",
           "id": 1691,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -645,6 +1125,26 @@
           "evaluatorType": "mentor",
           "id": 1115,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -671,6 +1171,26 @@
           "evaluatorType": "validator",
           "id": 1155,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -697,6 +1217,26 @@
           "evaluatorType": "validator",
           "id": 1117,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -723,6 +1263,26 @@
           "evaluatorType": "mentor",
           "id": 1147,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -749,6 +1309,26 @@
           "evaluatorType": "validator",
           "id": 1157,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -775,6 +1355,26 @@
           "evaluatorType": "validator",
           "id": 1247,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -801,6 +1401,26 @@
           "evaluatorType": "validator",
           "id": 1164,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -827,6 +1447,26 @@
           "evaluatorType": "validator",
           "id": 1153,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -853,6 +1493,26 @@
           "evaluatorType": "validator",
           "id": 1248,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -879,6 +1539,26 @@
           "evaluatorType": "validator",
           "id": 1156,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
@@ -905,6 +1585,629 @@
           "evaluatorType": "validator",
           "id": 1154,
           "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
+          "isActive": true,
+          "isAvailable": true,
+          "isStudentDeliverable": true,
+          "language": "fr",
+          "lifecycleStatus": "active",
+          "requiredPresentation": true,
+          "shortDescription": "Débuggez votre portfolio et optimisez la performance du code et du référencement SEO avant de le déployer en ligne afin de donner de la visibilité à vos projets.",
+          "status": "active",
+          "title": "Créez et publiez votre portfolio de développeur",
+          "updatedAt": "2024-07-23T17:46:20+0200",
+          "url": "https://openclassrooms.com/en/projects/1154/assignment",
+          "completion": null,
+          "followedStatus": "not-followed",
+          "learningActivityStatus": "not started",
+          "reviewedAt": null
+        }
+      ]
+    }
+  }, 
+  {
+    "id": 11336381,
+    "displayName": "Mattéo Augereau",
+    "profilePicture": "https://user.oc-static.com/users/avatars/17077578112088_photo_cv.png",
+    "followedLearningPath": {
+      "learningPathId": 702,
+      "learningPathTitle": "Product Manager"
+    },
+    "followedProject": {
+      "projectId": 1238,
+      "projectTitle": "Managez des imprévus durant un sprint",
+      "projectLevel": "3",
+      "projectMentoringLevel": "3",
+      "projectPresentationLevel": "3"
+    },
+    "path": {
+      "title": "Intégrateur Web",
+      "completion": 0.3,
+      "status": "critically-late",
+      "expectedCompletion": 0.55,
+      "currentProject": {
+        "projectId": 1117,
+        "projectTitle": "Améliorez l'interface d'un site mobile avec des animations CSS",
+        "projectLevel": "3",
+        "projectMentoringLevel": "3",
+        "projectPresentationLevel": "3",
+        "competencies": [
+          {
+            "id": 8358,
+            "language": "fr",
+            "name": "Assurer un management adapté à la variété des profils de son équipe",
+            "description": null
+        },
+        {
+            "id": 8360,
+            "language": "fr",
+            "name": "Entretenir un product backlog",
+            "description": null
+        },
+        {
+            "id": 8359,
+            "language": "fr",
+            "name": "Identifier les prestataires externes adéquats à un projet",
+            "description": null
+        }
+        ]
+      },
+      "projects": [
+        {
+          "OpenClassroomsUrl": "https://openclassrooms.com/en/projects/1691/assignment",
+          "createdAt": "2023-11-08T10:12:27+0100",
+          "duration": "PT23H",
+          "supervisedDuration": "PT23H",
+          "guidedDuration": "PT23H",
+          "totalDuration": "PT46H",
+          "evaluatorType": "mentor",
+          "id": 1691,
+          "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
+          "isActive": true,
+          "isAvailable": true,
+          "isStudentDeliverable": true,
+          "language": "fr",
+          "lifecycleStatus": "active",
+          "requiredPresentation": false,
+          "shortDescription": "Découvrez vos projets et planifiez votre formation.",
+          "status": "active",
+          "title": "Démarrez votre formation d'Intégrateur Web",
+          "updatedAt": "2024-09-25T17:40:08+0200",
+          "url": "https://openclassrooms.com/en/projects/1691/assignment",
+          "completion": 1,
+          "followedStatus": "not-followed",
+          "learningActivityStatus": "passed",
+          "reviewedAt": "2024-06-19T16:07:22+0200"
+        },
+        {
+          "OpenClassroomsUrl": "https://openclassrooms.com/en/projects/1115/assignment",
+          "createdAt": "2022-03-03T09:37:37+0100",
+          "duration": "PT20H",
+          "supervisedDuration": "PT20H",
+          "guidedDuration": "PT20H",
+          "totalDuration": "PT40H",
+          "evaluatorType": "mentor",
+          "id": 1115,
+          "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
+          "isActive": true,
+          "isAvailable": true,
+          "isStudentDeliverable": true,
+          "language": "fr",
+          "lifecycleStatus": "active",
+          "requiredPresentation": true,
+          "shortDescription": "Démarrez sur HTML et CSS en analysant et en complétant une page internet.",
+          "status": "active",
+          "title": "Premiers pas sur le langage HTML",
+          "updatedAt": "2024-05-16T17:03:49+0200",
+          "url": "https://openclassrooms.com/en/projects/1115/assignment",
+          "completion": 1,
+          "followedStatus": "not-followed",
+          "learningActivityStatus": "passed",
+          "reviewedAt": "2024-07-06T14:51:25+0200"
+        },
+        {
+          "OpenClassroomsUrl": "https://openclassrooms.com/en/projects/1155/assignment",
+          "createdAt": "2022-04-04T10:52:25+0200",
+          "duration": "PT80H",
+          "supervisedDuration": "PT80H",
+          "guidedDuration": "PT80H",
+          "totalDuration": "PT160H",
+          "evaluatorType": "validator",
+          "id": 1155,
+          "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
+          "isActive": true,
+          "isAvailable": true,
+          "isStudentDeliverable": true,
+          "language": "fr",
+          "lifecycleStatus": "active",
+          "requiredPresentation": true,
+          "shortDescription": "Démarrez sur HTML et CSS en intégrant la page Web de Booki, une plateforme de réservation de vacances.",
+          "status": "active",
+          "title": "Créez la page d'accueil d'une agence de voyage avec HTML & CSS",
+          "updatedAt": "2024-04-15T10:16:00+0200",
+          "url": "https://openclassrooms.com/en/projects/1155/assignment",
+          "completion": 1,
+          "followedStatus": "not-followed",
+          "learningActivityStatus": "passed",
+          "reviewedAt": "2024-08-26T16:36:55+0200"
+        },
+        {
+          "OpenClassroomsUrl": "https://openclassrooms.com/en/projects/1117/assignment",
+          "createdAt": "2022-03-03T09:46:08+0100",
+          "duration": "PT60H",
+          "supervisedDuration": "PT60H",
+          "guidedDuration": "PT60H",
+          "totalDuration": "PT120H",
+          "evaluatorType": "validator",
+          "id": 1117,
+          "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
+          "isActive": true,
+          "isAvailable": true,
+          "isStudentDeliverable": true,
+          "language": "fr",
+          "lifecycleStatus": "active",
+          "requiredPresentation": true,
+          "shortDescription": "Implémentez le site d’une foodtech en mobile first et ses animations CSS avec Sass.",
+          "status": "active",
+          "title": "Améliorez l'interface d'un site mobile avec des animations CSS",
+          "updatedAt": "2024-09-11T17:44:38+0200",
+          "url": "https://openclassrooms.com/en/projects/1117/assignment",
+          "completion": null,
+          "followedStatus": "followed",
+          "learningActivityStatus": "awaiting review",
+          "reviewedAt": null
+        },
+        {
+          "OpenClassroomsUrl": "https://openclassrooms.com/en/projects/1147/assignment",
+          "createdAt": "2022-03-31T18:36:49+0200",
+          "duration": "PT20H",
+          "supervisedDuration": "PT20H",
+          "guidedDuration": "PT20H",
+          "totalDuration": "PT40H",
+          "evaluatorType": "mentor",
+          "id": 1147,
+          "illustration": null,
+           "competencies": [
+            {
+              "id": 8358,
+              "language": "fr",
+              "name": "Assurer un management adapté à la variété des profils de son équipe",
+              "description": null
+          },
+          {
+              "id": 8360,
+              "language": "fr",
+              "name": "Entretenir un product backlog",
+              "description": null
+          },
+          {
+              "id": 8359,
+              "language": "fr",
+              "name": "Identifier les prestataires externes adéquats à un projet",
+              "description": null
+          }
+        ],
+          "isActive": true,
+          "isAvailable": true,
+          "isStudentDeliverable": true,
+          "language": "fr",
+          "lifecycleStatus": "active",
+          "requiredPresentation": true,
+          "shortDescription": "Réalisez le carrousel du site Internet d’une imprimerie avec JavaScript",
+          "status": "active",
+          "title": "Premiers pas sur le langage JavaScript",
+          "updatedAt": "2024-03-14T16:02:09+0100",
+          "url": "https://openclassrooms.com/en/projects/1147/assignment",
+          "completion": null,
+          "followedStatus": "not-followed",
+          "learningActivityStatus": "not started",
+          "reviewedAt": null
+        },
+        {
+          "OpenClassroomsUrl": "https://openclassrooms.com/en/projects/1157/assignment",
+          "createdAt": "2022-04-04T22:31:41+0200",
+          "duration": "PT60H",
+          "supervisedDuration": "PT60H",
+          "guidedDuration": "PT60H",
+          "totalDuration": "PT120H",
+          "evaluatorType": "validator",
+          "id": 1157,
+          "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
+          "isActive": true,
+          "isAvailable": true,
+          "isStudentDeliverable": true,
+          "language": "fr",
+          "lifecycleStatus": "active",
+          "requiredPresentation": true,
+          "shortDescription": "Aidez votre équipe à finaliser le nouveau site internet d’une architecte grâce à la création d’un site dynamique avec JavaScript, communiquant avec une API.",
+          "status": "active",
+          "title": "Créez une page web dynamique avec JavaScript",
+          "updatedAt": "2024-08-22T17:54:30+0200",
+          "url": "https://openclassrooms.com/en/projects/1157/assignment",
+          "completion": null,
+          "followedStatus": "not-followed",
+          "learningActivityStatus": "not started",
+          "reviewedAt": null
+        },
+        {
+          "OpenClassroomsUrl": "https://openclassrooms.com/en/projects/1247/assignment",
+          "createdAt": "2022-06-24T18:32:42+0200",
+          "duration": "PT60H",
+          "supervisedDuration": "PT60H",
+          "guidedDuration": "PT60H",
+          "totalDuration": "PT120H",
+          "evaluatorType": "validator",
+          "id": 1247,
+          "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
+          "isActive": true,
+          "isAvailable": true,
+          "isStudentDeliverable": true,
+          "language": "fr",
+          "lifecycleStatus": "active",
+          "requiredPresentation": true,
+          "shortDescription": "Implémentez le front end de Kasa, une application de location de logements. Mettez en place des composants avec React et les routes de l'application avec React Router.",
+          "status": "active",
+          "title": "Managez des imprévus durant un sprint",
+          "updatedAt": "2024-03-27T14:47:45+0100",
+          "url": "https://openclassrooms.com/en/projects/1247/assignment",
+          "completion": null,
+          "followedStatus": "not-followed",
+          "learningActivityStatus": "in progress",
+          "reviewedAt": null
+        },
+        {
+          "OpenClassroomsUrl": "https://openclassrooms.com/en/projects/1164/assignment",
+          "createdAt": "2022-04-08T10:40:52+0200",
+          "duration": "PT40H",
+          "supervisedDuration": "PT40H",
+          "guidedDuration": "PT40H",
+          "totalDuration": "PT80H",
+          "evaluatorType": "validator",
+          "id": 1164,
+          "illustration": null,
+           "competencies": [
+            {
+              "id": 8358,
+              "language": "fr",
+              "name": "Assurer un management adapté à la variété des profils de son équipe",
+              "description": null
+          },
+          {
+              "id": 8360,
+              "language": "fr",
+              "name": "Entretenir un product backlog",
+              "description": null
+          },
+          {
+              "id": 8359,
+              "language": "fr",
+              "name": "Identifier les prestataires externes adéquats à un projet",
+              "description": null
+          }
+        ],
+          "isActive": true,
+          "isAvailable": true,
+          "isStudentDeliverable": true,
+          "language": "fr",
+          "lifecycleStatus": "active",
+          "requiredPresentation": true,
+          "shortDescription": "Aidez votre client à apparaître en tête des résultats de recherche Google grâce aux bonnes pratiques de SEO et d’accessibilité.",
+          "status": "active",
+          "title": "Optimisez le référencement d'un site de photographe",
+          "updatedAt": "2024-04-18T16:57:22+0200",
+          "url": "https://openclassrooms.com/en/projects/1164/assignment",
+          "completion": null,
+          "followedStatus": "not-followed",
+          "learningActivityStatus": "not started",
+          "reviewedAt": null
+        },
+        {
+          "OpenClassroomsUrl": "https://openclassrooms.com/en/projects/1153/assignment",
+          "createdAt": "2022-04-04T10:49:20+0200",
+          "duration": "PT60H",
+          "supervisedDuration": "PT60H",
+          "guidedDuration": "PT60H",
+          "totalDuration": "PT120H",
+          "evaluatorType": "validator",
+          "id": 1153,
+          "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
+          "isActive": true,
+          "isAvailable": true,
+          "isStudentDeliverable": true,
+          "language": "fr",
+          "lifecycleStatus": "active",
+          "requiredPresentation": true,
+          "shortDescription": "Prenez le relais d’un autre développeur pour débugger le site de l’agence 724events.",
+          "status": "active",
+          "title": "Débuggez le site d'une agence d'événementiel",
+          "updatedAt": "2024-04-22T09:30:29+0200",
+          "url": "https://openclassrooms.com/en/projects/1153/assignment",
+          "completion": null,
+          "followedStatus": "not-followed",
+          "learningActivityStatus": "not started",
+          "reviewedAt": null
+        },
+        {
+          "OpenClassroomsUrl": "https://openclassrooms.com/en/projects/1248/assignment",
+          "createdAt": "2022-06-24T18:44:19+0200",
+          "duration": "PT80H",
+          "supervisedDuration": "PT80H",
+          "guidedDuration": "PT80H",
+          "totalDuration": "PT160H",
+          "evaluatorType": "validator",
+          "id": 1248,
+          "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
+          "isActive": true,
+          "isAvailable": true,
+          "isStudentDeliverable": true,
+          "language": "fr",
+          "lifecycleStatus": "active",
+          "requiredPresentation": true,
+          "shortDescription": "Complétez le code de l'application bancaire Argent Bank avec React et Redux. Vous écrivez des appels à l'API REST pour connecter le front au back, et vous modéliserez une API.",
+          "status": "active",
+          "title": "Implémentez le front-end d'une application bancaire avec React",
+          "updatedAt": "2024-10-24T15:14:48+0200",
+          "url": "https://openclassrooms.com/en/projects/1248/assignment",
+          "completion": null,
+          "followedStatus": "not-followed",
+          "learningActivityStatus": "not started",
+          "reviewedAt": null
+        },
+        {
+          "OpenClassroomsUrl": "https://openclassrooms.com/en/projects/1156/assignment",
+          "createdAt": "2022-04-04T10:53:37+0200",
+          "duration": "PT60H",
+          "supervisedDuration": "PT60H",
+          "guidedDuration": "PT60H",
+          "totalDuration": "PT120H",
+          "evaluatorType": "validator",
+          "id": 1156,
+          "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
+          "isActive": true,
+          "isAvailable": true,
+          "isStudentDeliverable": true,
+          "language": "fr",
+          "lifecycleStatus": "active",
+          "requiredPresentation": true,
+          "shortDescription": "Planifiez chacune des étapes du projet de développement d’un site de création de menus pour les restaurateurs.",
+          "status": "active",
+          "title": "Planifiez le développement du site de votre client",
+          "updatedAt": "2024-10-07T17:15:27+0200",
+          "url": "https://openclassrooms.com/en/projects/1156/assignment",
+          "completion": null,
+          "followedStatus": "not-followed",
+          "learningActivityStatus": "not started",
+          "reviewedAt": null
+        },
+        {
+          "OpenClassroomsUrl": "https://openclassrooms.com/en/projects/1154/assignment",
+          "createdAt": "2022-04-04T10:51:08+0200",
+          "duration": "PT40H",
+          "supervisedDuration": "PT40H",
+          "guidedDuration": "PT40H",
+          "totalDuration": "PT80H",
+          "evaluatorType": "validator",
+          "id": 1154,
+          "illustration": null,
+           "competencies": [
+          {
+            "id": 8355,
+            "language": "fr",
+            "name": "Gérer les événements utilisateurs avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8354,
+            "language": "fr",
+            "name": "Manipuler les éléments du DOM avec JavaScript",
+            "description": null
+        },
+        {
+            "id": 8356,
+            "language": "fr",
+            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
+            "description": null
+        }
+        ],
           "isActive": true,
           "isAvailable": true,
           "isStudentDeliverable": true,
