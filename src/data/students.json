@@ -1683,24 +1683,24 @@
           "id": 1691,
           "illustration": null,
            "competencies": [
+            {
+              "id": 8358,
+              "language": "fr",
+              "name": "Assurer un management adapté à la variété des profils de son équipe",
+              "description": null
+          },
           {
-            "id": 8355,
-            "language": "fr",
-            "name": "Gérer les événements utilisateurs avec JavaScript",
-            "description": null
-        },
-        {
-            "id": 8354,
-            "language": "fr",
-            "name": "Manipuler les éléments du DOM avec JavaScript",
-            "description": null
-        },
-        {
-            "id": 8356,
-            "language": "fr",
-            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
-            "description": null
-        }
+              "id": 8360,
+              "language": "fr",
+              "name": "Entretenir un product backlog",
+              "description": null
+          },
+          {
+              "id": 8359,
+              "language": "fr",
+              "name": "Identifier les prestataires externes adéquats à un projet",
+              "description": null
+          }
         ],
           "isActive": true,
           "isAvailable": true,
@@ -1729,24 +1729,24 @@
           "id": 1115,
           "illustration": null,
            "competencies": [
+            {
+              "id": 8358,
+              "language": "fr",
+              "name": "Assurer un management adapté à la variété des profils de son équipe",
+              "description": null
+          },
           {
-            "id": 8355,
-            "language": "fr",
-            "name": "Gérer les événements utilisateurs avec JavaScript",
-            "description": null
-        },
-        {
-            "id": 8354,
-            "language": "fr",
-            "name": "Manipuler les éléments du DOM avec JavaScript",
-            "description": null
-        },
-        {
-            "id": 8356,
-            "language": "fr",
-            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
-            "description": null
-        }
+              "id": 8360,
+              "language": "fr",
+              "name": "Entretenir un product backlog",
+              "description": null
+          },
+          {
+              "id": 8359,
+              "language": "fr",
+              "name": "Identifier les prestataires externes adéquats à un projet",
+              "description": null
+          }
         ],
           "isActive": true,
           "isAvailable": true,
@@ -1775,24 +1775,24 @@
           "id": 1155,
           "illustration": null,
            "competencies": [
+            {
+              "id": 8358,
+              "language": "fr",
+              "name": "Assurer un management adapté à la variété des profils de son équipe",
+              "description": null
+          },
           {
-            "id": 8355,
-            "language": "fr",
-            "name": "Gérer les événements utilisateurs avec JavaScript",
-            "description": null
-        },
-        {
-            "id": 8354,
-            "language": "fr",
-            "name": "Manipuler les éléments du DOM avec JavaScript",
-            "description": null
-        },
-        {
-            "id": 8356,
-            "language": "fr",
-            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
-            "description": null
-        }
+              "id": 8360,
+              "language": "fr",
+              "name": "Entretenir un product backlog",
+              "description": null
+          },
+          {
+              "id": 8359,
+              "language": "fr",
+              "name": "Identifier les prestataires externes adéquats à un projet",
+              "description": null
+          }
         ],
           "isActive": true,
           "isAvailable": true,
@@ -1821,24 +1821,24 @@
           "id": 1117,
           "illustration": null,
            "competencies": [
+            {
+              "id": 8358,
+              "language": "fr",
+              "name": "Assurer un management adapté à la variété des profils de son équipe",
+              "description": null
+          },
           {
-            "id": 8355,
-            "language": "fr",
-            "name": "Gérer les événements utilisateurs avec JavaScript",
-            "description": null
-        },
-        {
-            "id": 8354,
-            "language": "fr",
-            "name": "Manipuler les éléments du DOM avec JavaScript",
-            "description": null
-        },
-        {
-            "id": 8356,
-            "language": "fr",
-            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
-            "description": null
-        }
+              "id": 8360,
+              "language": "fr",
+              "name": "Entretenir un product backlog",
+              "description": null
+          },
+          {
+              "id": 8359,
+              "language": "fr",
+              "name": "Identifier les prestataires externes adéquats à un projet",
+              "description": null
+          }
         ],
           "isActive": true,
           "isAvailable": true,
@@ -1913,24 +1913,24 @@
           "id": 1157,
           "illustration": null,
            "competencies": [
+            {
+              "id": 8358,
+              "language": "fr",
+              "name": "Assurer un management adapté à la variété des profils de son équipe",
+              "description": null
+          },
           {
-            "id": 8355,
-            "language": "fr",
-            "name": "Gérer les événements utilisateurs avec JavaScript",
-            "description": null
-        },
-        {
-            "id": 8354,
-            "language": "fr",
-            "name": "Manipuler les éléments du DOM avec JavaScript",
-            "description": null
-        },
-        {
-            "id": 8356,
-            "language": "fr",
-            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
-            "description": null
-        }
+              "id": 8360,
+              "language": "fr",
+              "name": "Entretenir un product backlog",
+              "description": null
+          },
+          {
+              "id": 8359,
+              "language": "fr",
+              "name": "Identifier les prestataires externes adéquats à un projet",
+              "description": null
+          }
         ],
           "isActive": true,
           "isAvailable": true,
@@ -1959,24 +1959,24 @@
           "id": 1247,
           "illustration": null,
            "competencies": [
+            {
+              "id": 8358,
+              "language": "fr",
+              "name": "Assurer un management adapté à la variété des profils de son équipe",
+              "description": null
+          },
           {
-            "id": 8355,
-            "language": "fr",
-            "name": "Gérer les événements utilisateurs avec JavaScript",
-            "description": null
-        },
-        {
-            "id": 8354,
-            "language": "fr",
-            "name": "Manipuler les éléments du DOM avec JavaScript",
-            "description": null
-        },
-        {
-            "id": 8356,
-            "language": "fr",
-            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
-            "description": null
-        }
+              "id": 8360,
+              "language": "fr",
+              "name": "Entretenir un product backlog",
+              "description": null
+          },
+          {
+              "id": 8359,
+              "language": "fr",
+              "name": "Identifier les prestataires externes adéquats à un projet",
+              "description": null
+          }
         ],
           "isActive": true,
           "isAvailable": true,
@@ -2051,24 +2051,24 @@
           "id": 1153,
           "illustration": null,
            "competencies": [
+            {
+              "id": 8358,
+              "language": "fr",
+              "name": "Assurer un management adapté à la variété des profils de son équipe",
+              "description": null
+          },
           {
-            "id": 8355,
-            "language": "fr",
-            "name": "Gérer les événements utilisateurs avec JavaScript",
-            "description": null
-        },
-        {
-            "id": 8354,
-            "language": "fr",
-            "name": "Manipuler les éléments du DOM avec JavaScript",
-            "description": null
-        },
-        {
-            "id": 8356,
-            "language": "fr",
-            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
-            "description": null
-        }
+              "id": 8360,
+              "language": "fr",
+              "name": "Entretenir un product backlog",
+              "description": null
+          },
+          {
+              "id": 8359,
+              "language": "fr",
+              "name": "Identifier les prestataires externes adéquats à un projet",
+              "description": null
+          }
         ],
           "isActive": true,
           "isAvailable": true,
@@ -2097,24 +2097,24 @@
           "id": 1248,
           "illustration": null,
            "competencies": [
+            {
+              "id": 8358,
+              "language": "fr",
+              "name": "Assurer un management adapté à la variété des profils de son équipe",
+              "description": null
+          },
           {
-            "id": 8355,
-            "language": "fr",
-            "name": "Gérer les événements utilisateurs avec JavaScript",
-            "description": null
-        },
-        {
-            "id": 8354,
-            "language": "fr",
-            "name": "Manipuler les éléments du DOM avec JavaScript",
-            "description": null
-        },
-        {
-            "id": 8356,
-            "language": "fr",
-            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
-            "description": null
-        }
+              "id": 8360,
+              "language": "fr",
+              "name": "Entretenir un product backlog",
+              "description": null
+          },
+          {
+              "id": 8359,
+              "language": "fr",
+              "name": "Identifier les prestataires externes adéquats à un projet",
+              "description": null
+          }
         ],
           "isActive": true,
           "isAvailable": true,
@@ -2143,24 +2143,24 @@
           "id": 1156,
           "illustration": null,
            "competencies": [
+            {
+              "id": 8358,
+              "language": "fr",
+              "name": "Assurer un management adapté à la variété des profils de son équipe",
+              "description": null
+          },
           {
-            "id": 8355,
-            "language": "fr",
-            "name": "Gérer les événements utilisateurs avec JavaScript",
-            "description": null
-        },
-        {
-            "id": 8354,
-            "language": "fr",
-            "name": "Manipuler les éléments du DOM avec JavaScript",
-            "description": null
-        },
-        {
-            "id": 8356,
-            "language": "fr",
-            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
-            "description": null
-        }
+              "id": 8360,
+              "language": "fr",
+              "name": "Entretenir un product backlog",
+              "description": null
+          },
+          {
+              "id": 8359,
+              "language": "fr",
+              "name": "Identifier les prestataires externes adéquats à un projet",
+              "description": null
+          }
         ],
           "isActive": true,
           "isAvailable": true,
@@ -2189,24 +2189,24 @@
           "id": 1154,
           "illustration": null,
            "competencies": [
+            {
+              "id": 8358,
+              "language": "fr",
+              "name": "Assurer un management adapté à la variété des profils de son équipe",
+              "description": null
+          },
           {
-            "id": 8355,
-            "language": "fr",
-            "name": "Gérer les événements utilisateurs avec JavaScript",
-            "description": null
-        },
-        {
-            "id": 8354,
-            "language": "fr",
-            "name": "Manipuler les éléments du DOM avec JavaScript",
-            "description": null
-        },
-        {
-            "id": 8356,
-            "language": "fr",
-            "name": "Récupérer les données utilisateurs dans le JavaScript via des formulaires",
-            "description": null
-        }
+              "id": 8360,
+              "language": "fr",
+              "name": "Entretenir un product backlog",
+              "description": null
+          },
+          {
+              "id": 8359,
+              "language": "fr",
+              "name": "Identifier les prestataires externes adéquats à un projet",
+              "description": null
+          }
         ],
           "isActive": true,
           "isAvailable": true,
