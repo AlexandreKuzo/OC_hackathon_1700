@@ -37,7 +37,7 @@
     "eject": "react-scripts eject",
     "generate-data": "node scripts/generateData.mjs",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d build"
   },
   "browserslist": {
     "production": [
